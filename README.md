@@ -106,5 +106,6 @@ git clone https://github.com/choyon-sarker/smart-obstacle-avoiding-car.git
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License**.  
+This project is licensed under the **MIT License**.
+See the [LICENSE](LICENSE) file for details.
 Feel free to use and modify for educational purposes.
