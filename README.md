@@ -23,11 +23,13 @@ This project demonstrates how embedded systems and simple robotics can be used t
 - Power Supply (battery pack)  
 - Chassis and jumper wires  
 
+
 ---
 
-## 🔧 Circuit Diagram
-*(Add your circuit diagram image here)*  
-Example:  
+## 📂 Project Structure
+- smart-obstacle-avoiding-car/
+- │── code/                 # Your Arduino code
+- │── images/               # Circuit diagram + demo photos
+- │── README.md             # Documentation (with all sections inside it)
+---
 
-```bash
-![Circuit Diagram](images/circuit-diagram.png)
